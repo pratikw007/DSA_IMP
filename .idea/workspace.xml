@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6df4aeb-4c90-420d-8373-3cdeff930160" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/MultiDimentionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/MultidimentionalArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/SortingArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/SwapTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/reverseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Practice_GFG/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Anagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysSubsetOfAnotherArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/findMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASIC_SORTING/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASIC_SORTING/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASIC_SORTING/countingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASIC_SORTING/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASHING/HashMapCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASHING/HashmapOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASHING/IterationHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HEAP/Heaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HEAP/Main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HEAP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HEAP/PQinObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SearchLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SizeOfLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List_2/LL_Java_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/FUNNYOCCARANCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATHS/count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mergesort/MergeSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mergesort/MergeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mergesort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue1/ACC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue1/QueueB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue1/QueueC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/InBuiltStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/StackC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/StackD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/pushAtBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/reverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue_KK/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue_KK/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue_KK/InbuildQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue_KK/InbuildStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue_KK/StackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/MergeStringAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/XYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/toConvertUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREES/BinaryTreeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREES/Inorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREES/Postorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREES/PreOrder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2VVy07nyrjvIKnU1gTLea4yXT5d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LINUX\JAVA\Java Program\src\STACK" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Heaps" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Postorder">
+    <configuration name="Inorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TREES.Inorder" />
+      <module name="Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TREES.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Postorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TREES.Postorder" />
+      <module name="Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TREES.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TREES.PreOrder" />
+      <module name="Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TREES.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Postorder" />
+        <item itemvalue="Application.PreOrder" />
+        <item itemvalue="Application.Inorder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6df4aeb-4c90-420d-8373-3cdeff930160" name="Changes" comment="" />
+      <created>1694935321821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694935321821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
